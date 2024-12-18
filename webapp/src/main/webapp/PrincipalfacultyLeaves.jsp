@@ -75,7 +75,7 @@
 		</div>
 		<div class="row">
             <ul class="nav shadow" style="background-color: orange;">
-                <li class="nav-item btn btn-success m-3" ><a href="Principal.jsp" class="nav-link text-light active">Home</a></li>
+                <li class="nav-item btn btn-success m-3" ><a href="Principal.jsp" class="nav-link text-light active">Back</a></li>
             </ul>
 		</div>
 		<div class="row">
