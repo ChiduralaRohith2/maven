@@ -65,7 +65,7 @@
 		</div>
 		<div class="row">
 			<ul class="nav rounded shadow" style="background-color: orange;">
-                <li class="nav-item btn btn-success m-3" ><a href="index.html" class="nav-link text-light active">Home</a></li>
+                <li class="nav-item btn btn-success m-3" ><a href="index.jsp" class="nav-link text-light active">Home</a></li>
                 <li class="nav-item btn btn-success m-3" ><a href="admin.jsp" class="nav-link text-light active">Admin</a></li>
                 <li class="nav-item btn btn-success m-3" ><a href="facultyLogin.html" class="nav-link text-light active ">Faculty</a></li>             	
             </ul>
