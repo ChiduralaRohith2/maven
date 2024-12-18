@@ -59,7 +59,7 @@
       		<div class="col-12" style="background-color: orange;">
             <ul class="nav rounded shadow">
                 <li class="nav-item btn btn-success m-3" ><a href="adminHome.jsp" class="nav-link text-light active">Home</a></li>
-            	<li class="nav-item btn btn-success m-3" ><a href="adminLeaves.jsp" class="nav-link text-light active ">Back</a></li>
+            	<li class="nav-item btn btn-success m-3" ><a href="adminHodLeaves.jsp" class="nav-link text-light active ">Back</a></li>
             </ul>
 		  	</div>
      		<div class="row">
